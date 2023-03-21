@@ -1,0 +1,1 @@
+# modelo_de_padroes_de_projetos
